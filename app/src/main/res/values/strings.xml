@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">CalHope</string>
+    <string name="build_version">1.0</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="signuphere">Don\'t have an account? Sign Up</string>
+    <string name="signup">Sign Up</string>
+    <string name="loginhere">Already have an account? Login</string>
+    <string name="email">Email</string>
+    <string name="fullname">Full Name</string>
+    <string name="welcome">Welcome!</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="request_id">Request ID:</string>
+    <string name="start_date">Start Date:</string>
+    <string name="end_date">End Date:</string>
+    <string name="status">Status:</string>
+    <string name="edit">EDIT</string>
+    <string name="delete">DELETE</string>
+    <string name="notes">Notes:</string>
+    <string name="type">Type:</string>
+    <string name="cancel">CANCEL</string>
+    <string name="save">SAVE</string>
+    <string name="date">Date:</string>
+    <string name="time">Time:</string>
+    <string name="unit">Unit:</string>
+    <string name="location">Location:</string>
+    <string name="select">Select</string>
+    <string name="share">Share</string>
+    <string name="notify">Notify</string>
+    <string name="new_password">New Password</string>
+    <string name="current_password">Current Password</string>
+    <string name="update_password">Update Password</string>
+    <string name="update_username">Update Username</string>
+    <string name="current_username">Current Username</string>
+    <string name="new_username">New Username</string>
+    <string name="update">Update</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="notifications">notifications</string>
+    <string name="title_activity_admin_settings">AdminSettingsActivity</string>
+    <string name="nurse">Nurse</string>
+    <string name="admin">Admin</string>
+</resources>

@@ -1,0 +1,56 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <Preference
+        android:icon="@drawable/ic_account"
+        app:fragment="com.chriswilliams.cal_hope_c868.UI.Fragments.AccountFragment"
+        app:key="updateAccount"
+        app:summary="Update account information"
+        app:title="Update Account" />
+    <PreferenceCategory
+        android:icon="@drawable/ic_security"
+        app:key="security"
+        app:title="Security">
+        <Preference
+            app:fragment="com.chriswilliams.cal_hope_c868.UI.Fragments.UpdateUsernameFragment"
+            app:key="changeUsername"
+            app:title="Change Username" />
+        <Preference
+            app:fragment="com.chriswilliams.cal_hope_c868.UI.Fragments.UpdatePasswordFragment"
+            app:key="changePassword"
+            app:title="Change Password" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:icon="@drawable/ic_notifications_dark"
+        app:key="notificationCategory"
+        app:title="Notifications">
+        <SwitchPreferenceCompat
+            app:defaultValue="true"
+            app:key="notifications"
+            app:summaryOff="Notifications are disabled"
+            app:summaryOn="Notifications are enabled"
+            app:title="Enable Notifications" />
+
+        <SwitchPreferenceCompat
+            app:defaultValue="true"
+            app:dependency="notifications"
+            app:key="notification_sound"
+            app:title="Sound" />
+
+        <SwitchPreferenceCompat
+            app:defaultValue="true"
+            app:dependency="notifications"
+            app:key="notification_vibrate"
+            app:title="Vibrate" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:icon="@drawable/ic_info"
+        app:key="about"
+        app:title="About">
+        <Preference
+            app:key="version"
+            app:summary="@string/build_version"
+            app:title="Build Version" />
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable-v24/ic_cancel.xml" value="0.3703125" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable-v24/ic_notification.xml" value="0.3703125" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable-v24/ic_share_white.xml" value="0.3703125" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/button_default.xml" value="0.5578125" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/ic_account.xml" value="0.5492307692307692" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/ic_accountfill.xml" value="0.5492307692307692" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/ic_add.xml" value="0.34270833333333334" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/ic_alarm.xml" value="0.34270833333333334" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.5578125" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.5578125" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/ic_baseline_arrow_forward_24.xml" value="0.5578125" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/ic_baseline_dark_mode_24.xml" value="0.5578125" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/ic_calendar.xml" value="0.34270833333333334" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/ic_check.xml" value="0.34270833333333334" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/ic_color.xml" value="0.5578125" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/ic_denied.xml" value="0.34270833333333334" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/ic_email.xml" value="0.34270833333333334" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/ic_home.xml" value="0.34270833333333334" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/ic_info.xml" value="0.34270833333333334" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/ic_logo.xml" value="0.34270833333333334" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/ic_logo_fill.xml" value="0.34270833333333334" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/ic_logout.xml" value="0.34270833333333334" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/ic_menu.xml" value="0.34270833333333334" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/ic_message.xml" value="0.5578125" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/ic_name.xml" value="0.3546875" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/ic_name_fill.xml" value="0.1" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/ic_notification.xml" value="0.3546875" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/ic_notifications.xml" value="0.21302083333333333" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/ic_notifications_dark.xml" value="0.21302083333333333" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/ic_pass.xml" value="0.3546875" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/ic_password.xml" value="0.3546875" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/ic_pending.xml" value="0.3546875" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/ic_personalize.xml" value="0.3546875" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/ic_phone.xml" value="0.3546875" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/ic_request.xml" value="0.3546875" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/ic_schedule.xml" value="0.3546875" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/ic_search.xml" value="0.3546875" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/ic_security.xml" value="0.3546875" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/ic_share.xml" value="0.3703125" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/ic_share_white.xml" value="0.21302083333333333" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/ic_sync.xml" value="0.3546875" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/ic_user.xml" value="0.3546875" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/drawable/splash_screen.xml" value="0.565625" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout-land/activity_add_edit_request.xml" value="0.2865961199294533" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout-land/activity_admin_main.xml" value="0.2865961199294533" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout-land/activity_detail_nurse.xml" value="0.2865961199294533" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout-land/activity_detail_request.xml" value="0.2865961199294533" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout-land/activity_detail_shift.xml" value="0.2865961199294533" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout-land/activity_edit_account.xml" value="0.2865961199294533" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout-land/activity_login.xml" value="0.2865961199294533" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout-land/fragment_account.xml" value="0.2865961199294533" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout-land/fragment_update_password.xml" value="0.2865961199294533" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout-land/fragment_update_username.xml" value="0.2865961199294533" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout/activity_add_edit_request.xml" value="0.2634245187436677" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout/activity_admin_main.xml" value="0.2634245187436677" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout/activity_detail_account.xml" value="0.2634245187436677" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout/activity_detail_nurse.xml" value="0.26367781155015196" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout/activity_detail_request.xml" value="0.2634245187436677" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout/activity_detail_shift.xml" value="0.2634245187436677" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout/activity_edit_account.xml" value="0.2634245187436677" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout/activity_login_2.xml" value="0.3385416666666667" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout/activity_main.xml" value="0.2634245187436677" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout/admin_content_main.xml" value="0.26367781155015196" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout/content_main.xml" value="0.2634245187436677" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout/drawer_action_bar.xml" value="0.2634245187436677" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout/drawer_header.xml" value="0.5" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout/fragment_account.xml" value="0.3753609239653513" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout/fragment_admin_home.xml" value="0.45516304347826086" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout/fragment_admin_login.xml" value="0.2634245187436677" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout/fragment_admin_nurses.xml" value="0.32708333333333334" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout/fragment_admin_requests.xml" value="0.2015625" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout/fragment_home.xml" value="0.2634245187436677" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout/fragment_nurse_login.xml" value="0.2634245187436677" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout/fragment_requests.xml" value="0.2634245187436677" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout/fragment_schedule.xml" value="0.2634245187436677" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout/fragment_settings.xml" value="0.3338541666666667" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout/fragment_shifts.xml" value="0.3432971014492754" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout/fragment_update_password.xml" value="0.5276041666666667" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout/fragment_update_username.xml" value="0.5416666666666666" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout/item_admin_pending_requests.xml" value="0.67" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout/item_admin_requests.xml" value="0.2015625" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout/item_nurses.xml" value="0.26367781155015196" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout/item_pending_requests.xml" value="0.2634245187436677" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout/item_requests.xml" value="0.2634245187436677" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout/item_shifts.xml" value="0.2634245187436677" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout/item_upcoming_shifts.xml" value="0.2634245187436677" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout/settings_activity.xml" value="0.5416666666666666" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout/time_picker.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/layout/time_picker_dialog.xml" value="0.3541666666666667" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/menu/admin_drawer_menu.xml" value="0.5421875" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/menu/detail_nurse_menu.xml" value="0.5092592592592593" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/menu/drawer_menu.xml" value="0.5" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/menu/main_menu.xml" value="0.5380208333333333" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/menu/requests_menu.xml" value="0.3541666666666667" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/menu/shift_menu.xml" value="0.3541666666666667" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/menu/spinner_menu.xml" value="0.1578125" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3703125" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3703125" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/xml/admin_preferences.xml" value="0.45516304347826086" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/xml/preferences.xml" value="0.25" />
+        <entry key="..\:/Users/Chris/Documents/AndroidStudioProjects/Cal_Hope_C868/app/src/main/res/xml/root_preferences.xml" value="0.40942028985507245" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.chriswilliams.cal_hope_c868.UI.Activities.DetailRequestActivity">
+
+    <item
+        android:id="@+id/request_share"
+        android:icon="@drawable/ic_share_white"
+        android:title="@string/share"
+        app:showAsAction="ifRoom"/>
+</menu>
